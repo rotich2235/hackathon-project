@@ -59,7 +59,7 @@ We will create a basic structure to upload the image, display the photo, and app
 
 
 **2. CSS Styling:**
-Make sure the page looks clean and organized.
+Make sure the page looks clean and organized. 
 
 body {
   font-family: Arial, sans-serif;
